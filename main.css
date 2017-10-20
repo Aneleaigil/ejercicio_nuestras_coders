@@ -1,0 +1,92 @@
+.contenedor_1{
+  overflow: hidden;
+  width: 800px;
+  height: 280px;
+ }
+
+.borde{
+	border:1px solid grey;
+	width: 150px;
+ }
+ img{
+ 	width: 210px;
+ 	height:200px;
+ }
+.contenedor_2{
+  overflow: hidden;
+  width: 800px;
+  height: 300px  
+}
+.Playa_1{
+ float:left;
+ margin: 2em 2em;
+ display: block;
+
+}
+.Playa_2{
+ float:left;
+ margin: -17.6em 19.5em;
+ display: block;
+
+}
+.Playa_3{
+ float:left;
+ margin: -14.3em 30em;
+ display: block;
+}
+.Playa_4{
+ float:left;
+ margin: 0em 1.6em;
+ width: 300px;
+ display: block;
+}
+.Playa_5{
+ float:left;
+ margin: -12.8em 15.9em;
+ display: block;
+
+}
+.Playa_6{
+ float:left;
+ margin: -12.8em 30em;
+ display: block;
+}
+code h1{
+	color:grey;
+}
+.subtitulo_playa1{
+position: absolute;
+top:250px;
+left: 50px;
+color: #05027b;
+}
+.subtitulo_playa2{
+position: absolute;
+top:250px;
+left: 280px;
+color: #05027b;
+}
+.subtitulo_playa3{
+position: absolute;
+top:250px;
+left: 510px;
+color: #05027b;
+}
+.subtitulo_playa4{
+position: absolute;
+top:505px;
+left:39.6px;
+color: #05027b;
+}
+.subtitulo_playa5{
+position: absolute;
+top:505px;
+left:280px;
+color: #05027b;
+}
+.subtitulo_playa6{
+position: absolute;
+top:505px;
+left:510px;
+color: #05027b;
+}
